@@ -1,5 +1,5 @@
 # AWS Terraform Ansible Project
-https://github.com/aditya12-g/aws-terraform-ansible/blob/840ed9832b64ac8b735abd0159d242f6680f0144/Screenshot%20(10).png
+![image alt](https://github.com/aditya12-g/aws-terraform-ansible/blob/840ed9832b64ac8b735abd0159d242f6680f0144/Screenshot%20(10).png)
 
 This project demonstrates the automation of provisioning and configuring AWS infrastructure using Terraform and Ansible. It sets up an EC2 instance and deploys Nginx as a web server.
 
