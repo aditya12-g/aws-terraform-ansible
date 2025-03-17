@@ -4,7 +4,6 @@ This project demonstrates the automation of provisioning and configuring AWS inf
 
 🛠️ Prerequisites
 Before running this project, ensure you have:
-
 AWS CLI installed & configured (aws configure)
 Terraform installed (terraform -v)
 Ansible installed (ansible --version)
@@ -35,8 +34,7 @@ http://<YOUR_EC2_PUBLIC_IP>
 You should see the Nginx default welcome page 
 
 🧹 Cleanup (Destroy Infrastructure)
-terraform destroy -auto-
-
+terraform destroy -auto-approve
 🔗 Useful Links
 Terraform AWS EC2 Documentation
 Ansible EC2 Configuration
