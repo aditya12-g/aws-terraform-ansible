@@ -51,9 +51,9 @@ ansible-playbook -i inventory main.yml
 ## 📂 Project Structure
 ```
 aws-terraform-ansible/
-├── terraform/      # Terraform configurations
-├── ansible/        # Ansible playbooks & roles
-├── inventory       # Inventory file for Ansible
+├── main.tf     # Terraform configurations
+├── playbook.yml       # Ansible playbooks & roles
+├── inventory.ini       # Inventory file for Ansible
 ├── README.md       # Project documentation
 ```
 
