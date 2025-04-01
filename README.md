@@ -45,7 +45,7 @@ terraform apply -auto-approve
 
 ### 4️⃣ Run Ansible Playbook
 ```bash
-ansible-playbook -i inventory main.yml
+ansible-playbook -i inventory playbook.yml
 ```
 
 ## 📂 Project Structure
